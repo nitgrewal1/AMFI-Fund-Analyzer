@@ -1,0 +1,94 @@
+{
+  "name": "AMFI Mutual Fund Tracker & Analyzer",
+  "short_name": "AMFI Tracker",
+  "description": "Live AMFI Mutual Fund Tracker, Peer Comparison, CAGR Analytics, Portfolio Manager, and SIP/SWP Calculators.",
+  "start_url": "/?v=2",
+  "id": "/app-v2",
+  "scope": "/",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#020617",
+  "theme_color": "#7c3aed",
+  "prefer_related_applications": false,
+  "categories": [
+    "finance",
+    "productivity",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Live NAV Tracker",
+      "short_name": "Live NAV",
+      "description": "View live AMFI NAVs and real-time prices across 52 AMCs",
+      "url": "/?tab=explore",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "SIP & CAGR Calculator",
+      "short_name": "Calculators",
+      "description": "Calculate SIP, SWP, STP, Capital Gains Tax, and CAGR returns",
+      "url": "/?tab=calculators",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Fund Peer Comparison",
+      "short_name": "Comparison",
+      "description": "Compare up to 4 mutual funds side-by-side with AI analysis",
+      "url": "/?tab=comparison",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "My Portfolio Tracker",
+      "short_name": "Portfolio",
+      "description": "Track your mutual fund holdings, current value, and unrealized gains",
+      "url": "/?tab=portfolio",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

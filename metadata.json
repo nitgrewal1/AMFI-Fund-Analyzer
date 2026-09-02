@@ -1,0 +1,6 @@
+{
+  "name": "AMFI Mutual Fund Analyzer",
+  "description": "Android-styled mutual fund analytics app fetching live & historic AMFI NAV data, plotting charts, CAGR analysis, SIP calculators, peer comparisons, and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

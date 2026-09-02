@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.run.asia_east1.ais_pre_dqspf5hz5hwa3rrck3pxje_354321648043.twa",
+      "sha256_cert_fingerprints": [
+        "FE:02:AE:B7:6A:D5:47:AB:C9:2E:60:02:CE:2C:64:ED:BA:1A:75:D5:CD:42:2A:DA:E1:1C:BD:BA:FF:8A:11:FD",
+        "FF:1D:7F:97:9D:4F:85:00:6F:AA:DA:BE:2E:C6:D4:B6:99:BC:CC:34:4C:0C:FA:51:1F:E0:7D:9B:B3:04:42:E8"
+      ]
+    }
+  }
+]
